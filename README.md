@@ -22,8 +22,7 @@ The total for each student was calculated using the SUM function across the foll
 The formula was then dragged down to apply it to all students.
 
 Calculating Averages:
-The AVERAGE function was used to compute the average grade for each student based on the same subject columns. The formula was also filled down the column.
-
+The AVERAGE function was used to compute the average grade for each student based on the same subject columns.
 Pass/Fail Determination:
 To determine whether the student passed, the following formula was used in the “النجاح” column:
 =IF(H3>=200, "راسب", "ناجح")
